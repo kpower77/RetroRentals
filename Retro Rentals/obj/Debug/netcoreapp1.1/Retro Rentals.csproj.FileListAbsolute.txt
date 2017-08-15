@@ -1,0 +1,9 @@
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\bin\Debug\netcoreapp1.1\Retro Rentals.deps.json
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\bin\Debug\netcoreapp1.1\Retro Rentals.runtimeconfig.json
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\bin\Debug\netcoreapp1.1\Retro Rentals.runtimeconfig.dev.json
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\bin\Debug\netcoreapp1.1\Retro Rentals.dll
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\bin\Debug\netcoreapp1.1\Retro Rentals.pdb
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\obj\Debug\netcoreapp1.1\Retro Rentals.csprojResolveAssemblyReference.cache
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\obj\Debug\netcoreapp1.1\Retro Rentals.AssemblyInfo.cs
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\obj\Debug\netcoreapp1.1\Retro Rentals.dll
+c:\users\kenneth\documents\visual studio 2017\Projects\Retro Rentals\Retro Rentals\obj\Debug\netcoreapp1.1\Retro Rentals.pdb

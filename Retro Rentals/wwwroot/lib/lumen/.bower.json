@@ -1,0 +1,37 @@
+{
+  "name": "lumen",
+  "authors": [
+    "kyr <kyrwastaken@gmail.com>"
+  ],
+  "description": "bower package for bootswatch lumen",
+  "main": "lumen.min.css",
+  "keywords": [
+    "bootstrap",
+    "bootswatch",
+    "lumen",
+    "theme",
+    "web",
+    "css",
+    "html"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/pre",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/FooBarQuaxx/lumen",
+  "_release": "v1.0",
+  "_resolution": {
+    "type": "tag",
+    "tag": "v1.0",
+    "commit": "8297e1cffe2b8a45ead7b5986060e9382f2a22a2"
+  },
+  "_source": "https://github.com/FooBarQuaxx/lumen.git",
+  "_target": "v1.0",
+  "_originalSource": "bootlumen",
+  "_direct": true
+}
